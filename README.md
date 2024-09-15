@@ -59,6 +59,3 @@
 - Implement state capitals as a second level of difficulty.
 - Include hints for harder-to-guess states.
 
----
-
-This version highlights the use of the `pandas` library for efficient data handling. Let me know if you need further adjustments!
